@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently working AlgoAI<br>Having my cup of cake
+ I'm currently working on AlgoAI<br>Having my cup of cake
 
 
 ## 🌐 Socials:
