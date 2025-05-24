@@ -1,5 +1,7 @@
 # 💫 About Me:
- I'm Full Stack Web developer <br> Prompt Engineer<br> AI&ML engineer (soon)
+ I'm a Full Stack Web developer <br> Prompt Engineer<br> AI&ML engineer (soon)
+
+<br> 
 
 
 ## 🌐 Socials:
