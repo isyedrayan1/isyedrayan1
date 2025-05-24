@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently working on AlgoAI<br>Having my cup of cake
+ I'm Full Stack Web developer <br> Prompt Engineer<br> AI&ML engineer (soon)
 
 
 ## 🌐 Socials:
