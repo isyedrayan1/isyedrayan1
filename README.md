@@ -1,4 +1,4 @@
-# Hey, I'm Rayan ⚡  
+# Hey, I'm Rayan 
 
 I learn by building and build by learning — mostly with **AI, Automations, and lastly the web**.  
 I share my journey in public: the wins, the mistakes, and the lessons that come with creating things from scratch.  
